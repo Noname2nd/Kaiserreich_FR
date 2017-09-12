@@ -2,31 +2,31 @@
 
 ### Ideas ###
 
-CAN_nrc_idea:0 "National Research Council"
-CAN_nrc_idea_desc:0 "The National Research Council is critical to all the research efforts in our country. With expanded funding and some political support, this allows us to boost our entire scientific community and secure the loyalty of a few important research teams."
+CAN_nrc_idea:0 "Conseil National de Recherche"
+CAN_nrc_idea_desc:0 "Le Conseil national de Recherche est déterminant dans la bonne réalisation de tous les projets de recherche dans notre pays. Grâce à une augmentation de son financement et un peu de support politique, il pourrait nous permettre de stimuler toute notre communauté scientifique et d'assurer la loyauté de certaines importantes équipes de recherche."
 
-CAN_work_camps:0 "Work Relief Camps"
-CAN_work_camps_desc:0 "While the concept of a work camp might not be very attractive to the average citizen, it is simply better than unemployment. By providing plentiful and meaningful work, we can begin ambitious infrastructure projects while letting our people benefit directly."
+CAN_work_camps:0 "Camps de Secours"
+CAN_work_camps_desc:0 "Bien que l'idée des camps de travail pourrait ne pas sembler très attrayante pour le citoyen moyen, il reste que c'est bien mieux que le chômage. En offrant à ces gens un travail sérieux, nous pouvons réaliser d'ambitieux projets d'infrastructure et en faire bénéficier notre population."
 
-CAN_howes_conversion:0 "Howe's Plan"
-CAN_howes_conversion_desc:0 "The issues of our military industry in the Weltkrieg has made it patently obvious that we must promote government intervention in the arms industry. As according to C.D Howe, we will subsidise most of these factories to ensure a full economic mobilisation on the eve of another conflict and maximised production even in peacetime."
+CAN_howes_conversion:0 "Plan de Howe"
+CAN_howes_conversion_desc:0 "Les problèmes d'efficacité de notre industrie militaire durant la Weltkrieg démontre clairement que nous dovons promouvoir l'intervention gouvernementale dans l'industrie de l'armement. Comme le recommande C.D. Howe, nous allons subventionner la plupart de ces usinse afin d'assurer une mobilisation économique totale à la veille d'un autre conflit et de maximiser la production même durant ces temps de paix."
 
-CAN_bill_c_7_debate:0 "The Bill C-7 Debate"
-CAN_bill_c_7_debate_desc:0 "Certainly more than the average parliamentary debate, the Bill C-7 Debate might very well change the path of Canada for the future to come. All of the energy and influence of the political sphere is being spent in this single debate, preventing us from attending to other matters"
+CAN_bill_c_7_debate:0 "Le Débat sur le Projet de Loi C-7"
+CAN_bill_c_7_debate_desc:0 "Le Débat sur le projet de loi C-7, certainement plus important que les débats parlementaires ordinaires, pourrait facilement altérer le futur du Canada. Ce débat monopolise les efforts et énergies de toute notre communauté politique, nous empêchant de se concentrer sur d'autres points importants."
 
-CAN_divided_nation:0 "Divided Government"
-CAN_divided_nation_desc:0 "Our government is deeply divided on many levels and there is constant bickering between the major parties. Even outside of that, there is also a clear split between English exiles, aiming to make Canada the springboard of their reconquest of the mainland, and Canadian nationals, tired of their antics and anti-parliamentarism. This is completely paralysing our current government."
+CAN_divided_nation:0 "Gouvernement Divisé"
+CAN_divided_nation_desc:0 "Notre gouvernement est extrêmement divisé et les trois partis majeurs se chamaillent constamment. Même en ignorant cela, il y a une division claire entre les exilés anglais, qui voient le Canada comme une plateforme pour reconquérir les îles britanniques, et les Canadiens, qui n'apprécient pas leur vision anti-parlementariste et de leurs demandes. Tout cela paralyse complètement notre gouvernement."
 
-CAN_country_united:0 "Unified Government"
-CAN_country_united_desc:0 "While the democratic process is alive and well, we have finally reached some sort of agreement on a common course for our country. With the fever dreams of an all-powerful English monarch doused, Canadian politicians are finally willing to support our cause."
+CAN_country_united:0 "Gouvernement Unifié"
+CAN_country_united_desc:0 "Nous sommes enfin arrivé à un certain concensus sur le destin de notre pays et notre processus démocratique est bien vivant. Suite à l'abandon de toutes ambitions pour créer un monarque anglais tout puissant, les politiciens canadiens sont prêts à supporter notre cause."
 
-CAN_mounties:0 "The Mounties"
-CAN_mounties_desc:0 "In accordance with the Tories, the Royal Canadian Mounted Police has been given sweeping powers to survey and detain suspected dissidents. While many liberals now amount them to a sort of secret police, there is no doubting their efficiency in preventing unrest and dissent in our country, and any undesirable Syndicalist influences in the population."
+CAN_mounties:0 "La Police Montée"
+CAN_mounties_desc:0 "Comme le demandaient les conservateurs, la Gendarmerie Royale du Canada s'est fait donner d'importants pouvoirs pour surveiller et emprisonner des gens supsonnés d'être dissidents. Bien que plusieurs libéraux les comparent à présent à une police secrète, on ne peut pas douter de leur efficacité dans la prévention des troubles et de la contestation dans notre pays, ainsi que toute influence syndicaliste indésirée dans la population."
 
-king_new_companies:0 "New Crown Corporations"
-king_new_companies_desc:0 "Strategic state investments in our country's industry allows us to rapidly and efficiently industrialise the vast Canadian lands without having to bear the responsibility of a nationalised industry. However, as the funds allocated dry up, the effects of this policy will eventually fade."
+king_new_companies:0 "Nouvelles Sociétés de la Couronne"
+king_new_companies_desc:0 "Des investissements stratégiques dans les industries de notre pays nous permettra d'industrialiser les vastes terres canadiennes de manière rapide et efficace sans les responsabilités associées à la nationalisation de l'industrie. Par contre, avec l'usage graduelle de ces fonds d'investissements, les effets de cette politique disparaitront éventuellement."
 
-quebec_riots:0 "Riots in Quebec"
+quebec_riots:0 "Émeutes au Québec"
 quebec_riots_desc:0 "The people of Quebec, confronted with the news of our patriotic war, have refused to defend their nation and instead have taken to the streets to protest. While some of them merely state that Canada, especially a Canada ruled by English elites, is not their nation, we know better than to believe those deserters and cowards."
 
 anglo_french_tensions:0 "Anglo-French Tensions"
